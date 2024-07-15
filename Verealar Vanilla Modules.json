@@ -2,7 +2,21 @@
     "enemy_modules": {
         "attack_ranged": {
             "projectile": "Projectile To Use",
-            ""
-        }
+            "float": "Gravity Modifier (Web Sack=3, Blue Flame=0, Light Blue Flame=1, Revolver Bullet=4)",
+            "integer": "Cooldown For Projectiles (Web Sack=35, Blue Flame=30, Light Blue Flame=30, Revolver Bullet=50)"
+        },
+        "attack_blastwave": {
+            "blastwave": "Blastwave To Use",
+            "integer": "Cooldown For Blastwave (Gremlin King=100, Queen Spider=120, Dark Spirit Mage=100)",
+            "integer": "Blastwave Speed (1-2)"
+        },
+        "attack_summon": {
+            "enemy": "Enemy To Use",
+            "integer": "Cooldown For Summon (Master Mage=40, Dark Spirit Mage=70)"
+        },
+        "Blastwave_When_Near": {
+            "integer": "Range (Clodoh=100)"
+        },
+        "Kill_On_Blast": {}
     }
 }
