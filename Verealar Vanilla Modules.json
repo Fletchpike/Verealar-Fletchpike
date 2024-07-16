@@ -49,6 +49,10 @@
             "projectile": "Projectile For Explosion",
             "integer": "Frame Size Ups (New Year Firework=8, Dark Core=30)"
         },
+        "Offset": {
+            "float": "Offset Y",
+            "float": "Offset X"
+        }
         "Firework_Effect_Projectile": {},
         "Piercing_Projectile": {},
         "Random_Color": {}
