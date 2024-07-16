@@ -18,5 +18,39 @@
             "integer": "Range (Clodoh=100)"
         },
         "Kill_On_Blast": {}
+    },
+    "item_modules": {
+        "Area_Of_Effect": {
+            "float": "AOE Life (Rotting Scythe=4, Tidal Trident=1, Storm Saber=0)"
+        },
+        "Magic_Cost": {
+            "integer": "Cost Of Magic"
+        },
+        "Firerate": {
+            "float": "Seconds Between Fire"
+        },
+        "Bullet_Speed_Multiplier": {
+            "float": "Bullet Speed Multiplier (10steps x value)"
+        },
+        "Gravity_Multiplier_Projectile": {
+            "float": "Gravity Multiplier (2dir x value)"
+        },
+        "Explosion_Projectile": {
+            "projectile": "Projectile For Explosion"
+        },
+        "Life": {
+            "float": "Explosion Life"
+        },
+        "Rain_Projectile": {
+            "projectile": "Projectile For Rain",
+            "integer": "Amount Of Projectiles To Spawn"
+        },
+        "Firework_Explosion": {
+            "projectile": "Projectile For Explosion",
+            "integer": "Frame Size Ups (New Year Firework=8, Dark Core=30)"
+        },
+        "Firework_Effect_Projectile": {},
+        "Piercing_Projectile": {},
+        "Random_Color": {}
     }
 }
