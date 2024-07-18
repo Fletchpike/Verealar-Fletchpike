@@ -15,7 +15,7 @@
             "integer": "Cooldown For Summon (Master Mage=40, Dark Spirit Mage=70)"
         },
         "movement_flight": {
-            "string": "Sound Effect (put nothing for no sounds)"
+            "string": "Sound Effect (put 0 for no sounds)"
         }
         "Blastwave_When_Near": {
             "integer": "Range (Clodoh=100)"
