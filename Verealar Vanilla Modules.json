@@ -16,7 +16,7 @@
         },
         "movement_flight": {
             "string": "Sound Effect (put 0 for no sounds)"
-        }
+        },
         "Blastwave_When_Near": {
             "integer": "Range (Clodoh=100)"
         },
@@ -55,7 +55,7 @@
         "Offset": {
             "float": "Offset Y",
             "float": "Offset X"
-        }
+        },
         "Firework_Effect_Projectile": {},
         "Piercing_Projectile": {},
         "Random_Color": {}
