@@ -1,4 +1,4 @@
-"verealar_vanilla_modules": {
+{
     "enemy_modules": {
         "attack_ranged": {
             "projectile": "Projectile To Use",
