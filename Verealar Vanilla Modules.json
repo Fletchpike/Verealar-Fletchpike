@@ -64,6 +64,7 @@
         },
         "Firework_Effect_Projectile": {},
         "Piercing_Projectile": {},
-        "Random_Color": {}
+        "Random_Color": {},
+        "stab": {}
     }
 }
