@@ -26,6 +26,12 @@
         "Area_Of_Effect": {
             "float": "AOE Life (Rotting Scythe=4, Tidal Trident=1, Storm Saber=0)"
         },
+        "AOE_Sound": {
+            "string": "AOE Sound"
+        },
+        "AOE_Move_Forward": {
+            "float": "How Fast The AOE Moves Forward"
+        },
         "Magic_Cost": {
             "integer": "Cost Of Magic"
         },
