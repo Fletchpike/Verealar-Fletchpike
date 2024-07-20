@@ -20,6 +20,10 @@
         "scene_summon": {
             "enemy": "Enemy To Use"
         },
+        "summon_offset": {
+            "float": "X POS From Enemy",
+            "float": "Y POS From Enemy"
+        },
         "Blastwave_When_Near": {
             "integer": "Range (Clodoh=100)"
         },
