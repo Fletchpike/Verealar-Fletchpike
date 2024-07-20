@@ -17,6 +17,9 @@
         "movement_flight": {
             "string": "Sound Effect (put 0 for no sounds)"
         },
+        "scene_summon": {
+            "enemy": "Enemy To Use"
+        },
         "Blastwave_When_Near": {
             "integer": "Range (Clodoh=100)"
         },
