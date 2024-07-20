@@ -23,7 +23,8 @@
         "Blastwave_When_Near": {
             "integer": "Range (Clodoh=100)"
         },
-        "Kill_On_Blast": {}
+        "Kill_On_Blast": {},
+        "background_boss": {}
     },
     "item_modules": {
         "Area_Of_Effect": {
