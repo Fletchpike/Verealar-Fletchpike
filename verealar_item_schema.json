@@ -7,7 +7,44 @@
         "description": "Define Properties For Item",
         "type": "object"
         "properties": {
-            ""
+            "name": {
+                "description": "The Name For The Item",
+                "type": "string"
+            },
+            "texture": {
+                "description": "The Texture URL For The Item",
+                "type": "string"
+            },
+            "menu": {
+                "description": "The Location Options",
+                "type": "object",
+                "properties": {
+                    "location": {
+                        "description": "The Location In The Inventory\n0 equals the end",
+                        "type": "integer"
+                    },
+                    "tab": {
+                        "description": "The Catagory In The Inventory",
+                        "type": "string"
+                    }
+                }
+            },
+            "components": {
+                "description": "The Components For This Item",
+                "type": "object",
+                "properties": {
+                    "damage": {
+                        "description": "The Damage For Melee And Bows",
+                        "type": "object",
+                        "properties": {
+                            "damage": {
+                                "description": "Melee And Bow Damage",
+                                "type": "number"
+                            }
+                        }
+                    }
+                }
+            }
         }
       }
     }
