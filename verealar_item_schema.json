@@ -5,7 +5,7 @@
     "properties": {
       "item": {
         "description": "Define Properties For Item",
-        "type": "object"
+        "type": "object",
         "properties": {
             "name": {
                 "description": "The Name For The Item",
@@ -46,7 +46,6 @@
                 }
             }
         }
-      }
     }
-  }
-  
+}
+}
