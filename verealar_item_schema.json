@@ -1,0 +1,16 @@
+{
+    "title": "verealar",
+    "description": "Define properties for item",
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "The name for this item",
+        "type": "string"
+      },
+      "texture": {
+        "description": "the texture URI for this item",
+        "type": "string"
+      }
+    }
+  }
+  
