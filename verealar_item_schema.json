@@ -6,6 +6,9 @@
       "item": {
         "description": "Define Properties For Item",
         "type": "object"
+        "properties": {
+            ""
+        }
       }
     }
   }
